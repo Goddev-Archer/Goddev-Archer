@@ -67,6 +67,7 @@ ___
 - OpenDiscordBotPanel                               --> Panel mit API zur steuerung und protokollierung von Discord-Bots (Project: ODBP)
 - AstraCore (Discord Activity Edition)              --> Ja also... ähm... weil Baum
 - Goddev's ResampleEngine                           --> Programm zur Entwicklung von Musik (Genau das wonach es sich anhört)
+- Goddev's Typemachine                              --> Ein Programm, dass latenzfreies, schnelles und optisch ansprechendes Fasttyping bietet (TypingTest)
 
 ---
 ## Liste an Projekte, deren Release geplant ist/bevorsteht/bereits öffentlich sind
