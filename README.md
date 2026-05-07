@@ -61,7 +61,7 @@ ___
 - Webseite (MotionVoid)
 
 ## Was derzeit geplant ist, aber noch nicht angefangen wurde
-- DiscordBotBuilderLib for Java---------╗
+- DiscordBotBuilderLib for Java--------╗
 - DiscordBotBuilderLib for C#----------╟──── Project: DBBL*
 - DiscordBotBuilderLib for Python-----╝
 - OpenDiscordBotPanel                               --> Panel mit API zur steuerung und protokollierung von Discord-Bots (Project: ODBP)
