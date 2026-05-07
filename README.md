@@ -61,9 +61,9 @@ ___
 - Webseite (MotionVoid)
 
 ## Was derzeit geplant ist, aber noch nicht angefangen wurde
-- DiscordBotBuilderLib for Java                     ╗
-- DiscordBotBuilderLib for C#                       ╟──── Project: DBBL*
-- DiscordBotBuilderLib for Python                   ╝
+- DiscordBotBuilderLib for Java-------╗
+- DiscordBotBuilderLib for C#---------╟──── Project: DBBL*
+- DiscordBotBuilderLib for Python-----╝
 - OpenDiscordBotPanel                               --> Panel mit API zur steuerung und protokollierung von Discord-Bots (Project: ODBP)
 - AstraCore (Discord Activity Edition)              --> Ja also... ähm... weil Baum
 - Goddev's ResampleEngine                           --> Programm zur Entwicklung von Musik (Genau das wonach es sich anhört)
