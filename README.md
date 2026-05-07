@@ -41,7 +41,7 @@ ___
 | C# (See Sharp)                | Java Vaadin                      |
 | Python (Long Ago)             | Three.js |
 | Kotlin                        | Lua (Chances high, that I throw this over) | 
-| Front-End-Development         | Rust                             |
+| Scratch (hehe) | Rust                             |
 | Docker | C++ |
 
 ### From Laguages I learn, what I already started with:
