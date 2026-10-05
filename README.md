@@ -35,36 +35,33 @@ namespace information
 ~~~
 ___
 
-| Languages I currently support | Languages/Frameworks I'm learning currently |
-|            :---:              |              :---:               |
-| Java                          | Next.js                          |
-| C# (See Sharp)                | Java Vaadin                      |
-| Python (Long Ago)             | Three.js |
-| Kotlin                        | Lua (Chances high, that I throw this over) | 
-| Scratch (hehe) | Rust                             |
-| Docker | C++ |
-
-### From Laguages I learn, what I already started with:
+### From Laguages and else I learn, what I already started with or finished:
 - [x] React
-- [ ] Java Vaadin
+- [x] Java Vaadin (Yeah, won't use that very much, Astro and Tauri are way better)
 - [x] Dokker
 - [x] Rust
-- [ ] Next.js
+- [x] Next.js
 - [x] Three.js
-- [ ] C++
+- [x] C#
+- [x] Markdown
+- [ ] Lua
+- [ ] php (this is as bullshit as lua)
+- [x] python
+- [x] tauri v2
+- [ ] tinkerlin (eigene Kotlin-Abwandlung für... dinge)
 
 ---
 ## Woran ich derzeit aktiv arbeite
 - Open-Source-Kassensystem mit automatischer Erfassung, Lagerbestandverwaltung und Statistika
-- Ein Analog-Horror-Game mit vollständiger umgebung im Terminal
-- Portfolio
-- Webseite (MotionVoid)
+- Ein in Godot entwickeltes Horror-Spiel, mit Schwerpunkt Terminalemulation
+- Portfolio (mal so, mal so ^^)
+- Ein Client für verschlüsselte Kommunikation, aber Discord-Flavoured
 
 ## Was derzeit geplant ist, aber noch nicht angefangen wurde
 - DiscordBotBuilderLib for Java--------╗
 - DiscordBotBuilderLib for C#----------╟──── Project: DBBL*
 - DiscordBotBuilderLib for Python-----╝
-- OpenDiscordBotPanel                               --> Panel mit API zur steuerung und protokollierung von Discord-Bots (Project: ODBP)
+- OpenDiscordBotPanel                               --> Panel mit API zur steuerung und protokollierung von Discord-Bots (Project: ODBP), unabhängig der genutzten Programmiersprache.
 - AstraCore (Discord Activity Edition)              --> Ja also... ähm... weil Baum
 - Goddev's ResampleEngine                           --> Programm zur Entwicklung von Musik (Genau das wonach es sich anhört)
 - Goddev's Typemachine                              --> Ein Programm, dass latenzfreies, schnelles und optisch ansprechendes Fasttyping bietet (TypingTest)
@@ -73,6 +70,5 @@ ___
 ## Liste an Projekte, deren Release geplant ist/bevorsteht/bereits öffentlich sind
 - OpenCashSystem
 - DONTFEARTHEDEATH (ImmersiveExperience)
-- AstraCore (Analog-Horror)
-- Portfolio
+- AstraCore (Analog-Horror)(Sehr, sehr Experimentell und wahrscheinlich deprecated, da Spiel auf Godot geported wird.)
 - XPParser (Parser zur registrierung und verarbeitung von REXPaint `.xp`-Dateien in C#)
