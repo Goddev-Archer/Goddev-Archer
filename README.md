@@ -4,7 +4,7 @@ ___
 
 # Servus!
 
-Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-fuer-technische-assistenten-fuer-informatik/).
+Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
 
 ~~~csharp
 using System;
