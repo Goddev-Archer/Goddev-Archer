@@ -5,7 +5,16 @@ ___
 # Servus!
 
 Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
+---
 
+## Meine Stats
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goddev-Archer&show_icons=true)
+
+<!-- Meistgenutzte Sprachen -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddev-Archer&layout=compact)
+
+---
 ~~~csharp
 using System;
 
