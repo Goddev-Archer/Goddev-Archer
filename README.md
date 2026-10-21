@@ -5,7 +5,7 @@ ___
 # Servus!
 
 Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
----
+
 
 ## Meine Stats
 <!-- GitHub Stats -->
