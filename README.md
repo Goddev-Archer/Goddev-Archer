@@ -1,7 +1,5 @@
-``last updated: 2026-10-21 14:17:00``
+``last updated: 2026-10-22 16:03:00``
 ___
-<img width="1500" height="500" alt="Goddev Archer" src="https://github.com/user-attachments/assets/6ab00688-0c6a-4251-82a5-1825484a69b7" />
-
 # Servus!
 
 Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
