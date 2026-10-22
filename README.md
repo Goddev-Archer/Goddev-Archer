@@ -6,16 +6,11 @@ ___
 
 Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
 
-## Mein aktuellstes Repository
+## Ein kleiner überblick
 <p align="center">
   <a href="https://github.com/Goddev-Archer/Zeno">
-    <img src="https://zeno-status-md-widgets-drab.vercel.app/api/zeno-status.svg" alt="Zeno Status" />
+    <img src="https://zeno-status-md-widgets-drab.vercel.app/api/dashboard.svg" alt="Bento-Mini-Dashboard" />
   </a>
-</p>
-
-## Meine Stats
-<p align="center">
-  <img src="https://zeno-status-md-widgets-drab.vercel.app/api/profile-stats.svg" alt="Goddev Archer Developer Stats" />
 </p>
 
 ---
