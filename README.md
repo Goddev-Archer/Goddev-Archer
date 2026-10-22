@@ -1,5 +1,5 @@
 ``last updated: 2026-10-22 16:03:00``
-___
+
 # Servus!
 
 Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
