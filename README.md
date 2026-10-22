@@ -8,8 +8,8 @@ Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Be
 
 ## Ein kleiner überblick
 <p align="center">
-  <a href="https://github.com/Goddev-Archer/Zeno">
-    <img src="https://zeno-status-md-widgets-drab.vercel.app/api/dashboard.svg" alt="Bento-Mini-Dashboard" />
+  <a href="https://github.com/Goddev-Archer/Zeno](https://zeno-status-md-widgets-drab.vercel.app/">
+    <img src="https://zeno-status-md-widgets-drab.vercel.app/api/dashboard.svg" alt="Bento-Mini-Dashboard"/>
   </a>
 </p>
 
