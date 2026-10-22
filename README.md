@@ -6,13 +6,17 @@ ___
 
 Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
 
+## Mein aktuellstes Repository
+<p align="center">
+  <a href="https://github.com/Goddev-Archer/Zeno">
+    <img src="https://zeno-status-md-widgets-drab.vercel.app/api/zeno-status.svg" alt="Zeno Status" />
+  </a>
+</p>
 
 ## Meine Stats
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goddev-Archer&show_icons=true)
-
-<!-- Meistgenutzte Sprachen -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddev-Archer&layout=compact)
+<p align="center">
+  <img src="https://zeno-status-md-widgets-drab.vercel.app/api/profile-stats.svg" alt="Goddev Archer Developer Stats" />
+</p>
 
 ---
 ~~~csharp
