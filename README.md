@@ -3,6 +3,7 @@
 # Servus!
 
 Ich bin Goddev Archer, unabhängiger Entwickler und Schüler der [Staatlichen Berufsfachschule Lauingen](https://bs-lauingen.de/berufsfachschule-informatik/).
+Mittlerweile bin ich Ansässig in der Schweiz.
 
 ## Ein kleiner überblick
 <p align="center">
