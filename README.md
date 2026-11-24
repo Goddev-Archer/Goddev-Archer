@@ -62,6 +62,7 @@ ___
 - Ein in Godot entwickeltes Horror-Spiel, mit Schwerpunkt Terminalemulation
 - Portfolio (mal so, mal so ^^)
 - Ein Client für verschlüsselte Kommunikation, aber Discord-Flavoured
+- Bifroest: Anwendung für einen sicheren Wechsel von Windows zu Linux
 
 ## Was derzeit geplant ist, aber noch nicht angefangen wurde
 - DiscordBotBuilderLib for Java--------╗
